@@ -1,4 +1,7 @@
 # Analogue Mega Sg
+### Instructions
+- Extract everything to the root of your SD card and be sure to remove any existing firmware file
+- Place BIOS files in the BIOS folder
 ###  JB Firmware V7.9
 - Now supports all hardware versions
 - Many accuracy improvements to increase compatibility with the various Sega CD units and 32x.
@@ -19,7 +22,7 @@
 - Fixed Demons of Asteborg cartridge issue.
 - Added support for Columbus Circle games (16 Bit Rhythm Land, etc).
 - Added support for XE-1AP analog controller.
-- 3D glasses can be used to play 3D games (note: DAC suggested for best results)
+- 3D glasses can be used to play 3D games (note: DAC suggested for best results).
 - FM Powerbase Mini can be used to play FM audio now.  It is enabled in the audio menu.
 - Coleco's filter option menu is back.
 - Coleco digi samples (Sewer Sam, etc) are working now.
